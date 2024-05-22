@@ -1,0 +1,36 @@
+.underline {
+    text-decoration: underline;
+}
+
+.italic {
+
+    font-style: italic;
+}
+
+.underline-italic {
+    text-decoration: underline;
+    font-style: italic;
+}
+
+a:active
+ {
+    color: green;
+
+   }
+   
+  .red {
+    color: red;
+  }
+
+  .ma-classe {
+    font-family: sans-serif;
+    font-size: 20px;
+    }
+
+    .c0 {
+      text-align: center;
+      margin-right: 16cm;
+    }
+  
+
+
